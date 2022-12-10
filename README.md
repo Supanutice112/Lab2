@@ -155,3 +155,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+# information #
+Kittipat Tachamanokul 642115005
