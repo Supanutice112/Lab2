@@ -155,3 +155,6 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+Information
+Watcharit Srichai 642115041
